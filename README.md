@@ -3,9 +3,13 @@
 
 # **Topological-JAX: High-Performance Numerical Analysis of 2D Topological Insulators**
 
-![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
-![JAX](https://img.shields.io/badge/JAX-Powered-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![JAX](https://img.shields.io/badge/JAX-Accelerated%20ML-orange)
+![Status](https://img.shields.io/badge/Status-Research%20Prototype-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20MacOS%20%7C%20Windows-lightgrey)
+![Topological Physics](https://img.shields.io/badge/Field-Topological%20Matter-purple)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-Audit--Grade-success)
 
 **Author:** Hari Hardiyan (AI Orchestration)  
 **Date:** January 16, 2026
