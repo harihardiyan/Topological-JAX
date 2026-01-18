@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Hardiyan"
+    given-names: "Hari"
+    
+title: "Topological-JAX: A Differentiable Framework for 2D Topological Insulators"
+version: 1.0.0
+date-released: 2026-01-16
+url: "https://github.com/harihardiyan/topological-jax"
